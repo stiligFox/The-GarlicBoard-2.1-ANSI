@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GarlicBoard-2-Parts")(type "KiCad")(uri "${KIPRJMOD}/GarlicBoard-2-Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Bonsai_C4")(type "Legacy")(uri "/Users/thomas/Documents/Projects/Keyboards/GarlicBoard v2/Bonsai-C-main/C4 compact/Bonsai_C4.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "/Users/thomas/Documents/Projects/Keyboards/GarlicBoard v2/GitHub/Libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "Unified-Daughterboard-rescue")(type "Legacy")(uri "/Users/thomas/Documents/Projects/Keyboards/GarlicBoard v2/Unified-Daughterboard-master/KiCad/C3/Unified-Daughterboard-rescue.lib")(options "")(descr ""))
+  (lib (name "Hub16-cache")(type "Legacy")(uri "/Users/thomas/Documents/Projects/Keyboards/GarlicBoard v2/Hub16-master/Hardware/1.0.1-hs/Hub16-cache.lib")(options "")(descr ""))
+)
