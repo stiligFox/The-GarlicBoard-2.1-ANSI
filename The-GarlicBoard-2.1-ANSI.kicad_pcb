@@ -3535,7 +3535,7 @@
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW65"
-			(at 3.306258 -4.197132 -0)
+			(at 3.306258 -4.197132 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "5535ee8f-55a8-4c62-8ea1-41425d8c334e")
