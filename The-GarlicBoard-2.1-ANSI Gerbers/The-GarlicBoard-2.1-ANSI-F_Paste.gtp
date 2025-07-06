@@ -1,0 +1,21 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*
+G04 #@! TF.CreationDate,2025-07-05T23:37:42-04:00*
+G04 #@! TF.ProjectId,The-GarlicBoard-2.1-ANSI,5468652d-4761-4726-9c69-63426f617264,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-07-05 23:37:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.100000X1.800000*%
+G04 APERTURE END LIST*
+D10*
+X291779999Y-159576904D03*
+X291779999Y-153376904D03*
+X295480001Y-159576904D03*
+X295480001Y-153376904D03*
+M02*

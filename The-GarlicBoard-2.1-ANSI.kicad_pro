@@ -146,7 +146,7 @@
         "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -720,7 +720,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "The-GarlicBoard-2.1-ANSI Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "The-GarlicBoard-2-with hole.step",
@@ -798,7 +798,7 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -810,7 +810,7 @@
           "group_by": false,
           "label": "LCSC Part No",
           "name": "LCSC Part No",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -846,7 +846,7 @@
           "group_by": false,
           "label": "Basic or Extended",
           "name": "Basic or Extended",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
