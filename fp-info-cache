@@ -1,4 +1,4 @@
-26739901042785082
+26743505240752067
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60501,6 +60501,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 GarlicBoard v2
+67-23-RSHGRBYC
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+GarlicBoard v2
 AW20216S - HollowTroll
 QFN, 44 Pin
 QFN NoLead
@@ -60521,6 +60528,13 @@ AWINIC AW20216SQNR
 0
 45
 45
+GarlicBoard v2
+LED_MX_6028R FIXED
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
 GarlicBoard v2
 MHT151RGBCT-RGB-Reverse-Mount-1206-2
 https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
